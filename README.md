@@ -1,13 +1,11 @@
-# Log Levels
+# Exercism Java Solutions
 
-This exercise is part of the Java track on Exercism.
-
-Bu egzersiz Exercism Java öğrenme yolunun bir parçasıdır.
+This repository contains my solutions for the Java track on [Exercism](https://exercism.org). 
+Each exercise is developed as an independent module to maintain a clean and organized project directory structure.
 
 ---
 
-# English
+# Türkçe
 
-## Task 1 — Get message from a log line
-
-Her bir görev ayrı bir dalda (branch) ve bağımsız bir modül olarak geliştirilmiş olup, temiz bir proje dizin yapısı gözetilmiştir.
+Bu depo, [Exercism](https://exercism.org) platformundaki Java öğrenme yolu (track) için çözümlerimi içermektedir. 
+Her bir görev bağımsız bir modül olarak geliştirilmiş olup, temiz bir proje dizin yapısı gözetilmiştir.
