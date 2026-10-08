@@ -11,4 +11,3 @@ Each task has been developed as an independent module in a separate branch, main
 Bu depo, [Exercism](https://exercism.org) platformundaki Java eğitim yolunda (Java Track) çözdüğüm egzersizleri içermektedir.
 
 Her bir görev ayrı bir dalda (branch) ve bağımsız bir modül olarak geliştirilmiş olup, temiz bir proje dizin yapısı gözetilmiştir.
-
