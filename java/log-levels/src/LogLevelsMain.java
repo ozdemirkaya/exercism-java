@@ -1,5 +1,4 @@
-public class Main {
-
+public class LogLevelsMain {
     public static void main(String[] args) {
 
         System.out.println(LogLevels.message("[ERROR]: Invalid operation"));

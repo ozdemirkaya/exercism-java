@@ -1,4 +1,4 @@
-public class main {
+public class AnnalynsMain {
     public static void main(String[] args) {
         // Task 1 Testi: canFastAttack
         System.out.println("=== Task 1 ===");
