@@ -1,13 +1,13 @@
-# Cook Your Lasagna
+# Exercism Java Solutions
 
-This exercise is part of the Java track on Exercism.
+This repository contains the exercises I have solved on the [Exercism](https://exercism.org) platform's Java track.
 
-Bu egzersiz Exercism Java öğrenme yolunun bir parçasıdır.
+Each task has been developed as an independent module in a separate branch, maintaining a clean project directory structure.
 
 ---
 
-# English
+# Exercism Java Çözümleri
 
-## Task 1 — Define the expected oven time in minutes
+Bu depo, [Exercism](https://exercism.org) platformundaki Java eğitim yolunda (Java Track) çözdüğüm egzersizleri içermektedir.
 
 Her bir görev ayrı bir dalda (branch) ve bağımsız bir modül olarak geliştirilmiş olup, temiz bir proje dizin yapısı gözetilmiştir.
